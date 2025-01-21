@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /final.html
 
 Sitemap: https://freeofviewer.online/sitemap.xml
